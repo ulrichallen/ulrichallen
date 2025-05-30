@@ -18,16 +18,6 @@ This repository presents a practical and educational project exploring how **Lar
 ## 📂 Repository Structure
 
 
-## 💻 Demo Notebook
-
-> 📍 `notebooks/phishing-detection-distilbert.ipynb`  
-This notebook shows how to fine-tune and use DistilBERT to classify phishing vs. legitimate emails using labeled text data.
-
-## 🎥 Video Presentation
-
-👉 Watch the 10-minute project video here:  
-[🔗 YouTube / Vimeo link] (to be added)
-
 ## 🔐 Cybersecurity Risks with LLMs (based on OWASP Top 10)
 
 This project explores specific vulnerabilities:

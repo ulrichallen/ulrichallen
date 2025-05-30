@@ -56,7 +56,7 @@ It also provides **mitigation strategies** for each risk.
 
 **Sena Ulrich Sossou**  
 Cybersecurity Specialist & AI Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sena-ulrich-sossou/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ulrich-sossou-355507167/)  
 📧 ulrichsossou105@gmail.com  
 
 ---
